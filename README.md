@@ -5,7 +5,7 @@ This basically help get you your movies in a single directory for further analys
 Instructions:  
 Runs with Python2.7  
 Python script.py  
-...Folow instructions
+...Follow instructions
 
 {Summery: Needs Source and Destination diectory path only}
 
